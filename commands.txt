@@ -1,0 +1,26 @@
+
+man  - Help manual 
+mkdir - Create new folder
+rm      -  Remove files
+find    - Search for files that meet a desired criteria
+Sort   -  Sort text files
+mv     - Move files
+rmdir - Remove folder
+ls        -list of all working directory
+ls  -a  -  All l files, even files that are hidden
+ls  -t    it  causes files to be sorted by the time they were created
+whoami   -  prints the name of the current user account: 
+history- this shows history of terminal
+Vi filename - open file in vi editor
+/ -root directory
+.. - parent directory
+.-current directory
+* - used for working more than one file at the same time
+~ - home directory of current user
+Find- To use it at its basics, you specify the location to start your search, and then options like file names and file
+more - command is used to view the text files in the command prompt, displaying one screen at a time in case the file is large 
+less-  can be used to read the contents of text file one page(one screen) per time.
+grep "<text>" <file>	-Output all occurrences of <text> inside <file> (add -i for case insensitivity)
+echo -Display message on screen
+     
+
